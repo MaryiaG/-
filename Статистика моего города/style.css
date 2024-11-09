@@ -1,0 +1,32 @@
+h1{
+    color: grey;
+    border: 2px;
+    background-color: beige;
+    margin: 50px;
+
+}
+h2{
+    color: rgb(140, 81, 3);
+    margin: 70px;margin-bottom: 30px;
+
+}
+ul{
+    list-style-type: square;
+    color: rgb(50, 8, 89);
+    list-style-position: inside;
+}
+table,tr,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+    width: 100px;
+    border-color: olivedrab;
+    
+}
+thead{
+    background-color: burlywood;
+}
+tbody{
+    background-color: aliceblue;
+}
